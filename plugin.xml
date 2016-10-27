@@ -54,7 +54,7 @@
         <source-file src="src/android/FlurryAnalytics-6.0.0.jar" target-dir="libs" />
 
         <framework src="src/android/flurryAnalytics.gradle" custom="true" type="gradleReference" />
-        <framework src="com.google.android.gms:play-services-ads:+" />
+        <framework src="com.google.android.gms:play-services-ads:9.+" />
         <framework src="com.android.support:support-v13:+" />
 
     </platform>
